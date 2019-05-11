@@ -47,7 +47,7 @@ class TestLoanModel(TestCase):
 
     def test_installment(self) -> None:
         actual_loan_installment = round(self.loan.installment, 2)
-        expected_loan_installment = 2573.42
+        expected_loan_installment = 2647.84
         self.assertEqual(
             expected_loan_installment,
             actual_loan_installment,
