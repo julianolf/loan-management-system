@@ -234,10 +234,10 @@
         },
         "ruamel.yaml": {
             "hashes": [
-                "sha256:4c1dbad22790b5ea8587c2a0cae97ebc7a9d0d88de5d0edb70dea2eab7d8534a",
-                "sha256:eb4b1ffd095785c50f110118cb6f7bb9cd011ecc013b014436d38b7f8fb7afa9"
+                "sha256:547aeab5c51c93bc750ed2a320c1559b605bde3aa569216aa75fd91d8a1c4623",
+                "sha256:c5e239b6a4f26baabb2e22b145582a7d99ae9d4ebb8902291365a61ed38faa7f"
             ],
-            "version": "==0.16.0"
+            "version": "==0.16.1"
         },
         "six": {
             "hashes": [
@@ -405,10 +405,10 @@
         },
         "identify": {
             "hashes": [
-                "sha256:0a11379b46d06529795442742a043dc2fa14cd8c995ae81d1febbc5f1c014c87",
-                "sha256:43a5d24ffdb07bc7e21faf68b08e9f526a1f41f0056073f480291539ef961dfd"
+                "sha256:9aba2d08a82aa8e6f58810d4887ed3cf103a1befeb1eaf632d9c6fd2d6642542",
+                "sha256:b50ffad180b3a93b33a58b42597ef22493240d406ba07cc5058daf70f44b8d7c"
             ],
-            "version": "==1.4.5"
+            "version": "==1.4.6"
         },
         "idna": {
             "hashes": [
@@ -439,10 +439,10 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:704d9c48d7efb5bd36dcf8e8c3529fa95689b4f8b5c80b3fceab235ee2394ba1",
-                "sha256:8615bff705a56684462f9f0e8e1a22f3476bcdda0f204e77f70fbddb330ffeb4"
+                "sha256:0767b235f8efafcefd7a6e4dbcf80b47d7e9c1ab8a4c07bca0635261516fb43a",
+                "sha256:1762f2a551732e250d0e16131d3bf9e653adb6ec262e58dfe033906750503235"
             ],
-            "version": "==1.18.0"
+            "version": "==1.18.1"
         },
         "pycodestyle": {
             "hashes": [
